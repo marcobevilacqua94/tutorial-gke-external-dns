@@ -348,7 +348,8 @@ spec:
       static:
         serverSecret: couchbase-server-tls
         operatorSecret: couchbase-operator-tls
-
+```
+```
 kubectl -f couchbase.yaml -n $CLUSTER_NS
 ```
 ##### CLUSTER SHOULD BE RECHABLE, CHECK NETWORKING IF NOT
