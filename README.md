@@ -12,7 +12,7 @@ sudo apt-get update && sudo apt-get install google-cloud-cli
 
 gcloud init
 ```
-##### [TO DO: LOG IN GOOGLE CLOUD ACCOUNT AND SET PROJECT]
+##### AND LOG IN GOOGLE CLOUD ACCOUNT
 
 ##### INSTALLING OF KUBECTL
 ```
